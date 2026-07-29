@@ -1,0 +1,20 @@
+Operating System
+
+is the care Software 4fin operating that coordinates" on a computer. It sits. everything happenigs behoren userwacapplication, & the syster's playsical hardware acting the invisible manager.
+
+↳ System privilege Layers
+
+kernel Spare The privilegedlocked down care of the os Ditectly manager and System resources with hardware unrestricted access.
+
+User space where standard applications. run Prevented from direct hardware access, must use system cells to request Kernal assistance.
+
+Os Interface
+
+Graphical User Interface (GUI)
+
+A visual interface that alloy to interact with a Computer using graphical element graphical clen is folder icon, application
+
+
+Command Line Interface (CLI)
+
+A test based interface where user interact with the system by tying pred Commands wing specific Syntax Sract coordinates.
